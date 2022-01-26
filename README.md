@@ -7,5 +7,7 @@ Being able to move the microscope from one lab to another, bring it to workshops
 
 ## Key differences to mesoSPIM-v5
 ![mesoSPIM versions comparison](images/mesoSPIM-comparison.png)
+
+
 Benchtop mesoSPIM has smaller size, lower cost, and easier assembly than previous version (V5). The excitation optics (and lightsheet properties) are identical to V5, but with more compact folding. The detection path uses exchangeable telecentric lenses (available from various manufactureres), as opposed to one objective with zoom (Olympus PLAPO 1x). It is the same decision often made with DSLR cameras for professional photographers: prime lenses provide highest image quality but fixed magnification, compared to more flexible, but also more distorting zoom lenses. We tested and characterized selected telecentric lenses, but you are free to use your own.
 
