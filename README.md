@@ -1,4 +1,4 @@
-![Benchtop V2](images/benchtop-v2.png)
+![Benchtop V2](images/benchtop-mesoSPIM_2022.09.png)
 
 # Benchtop mesoSPIM hardware documentation
 
