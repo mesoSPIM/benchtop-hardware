@@ -19,9 +19,9 @@ Being able to move the microscope from one lab to another, bring it to workshops
 
 Benchtop mesoSPIM has smaller size, lower cost, higher image quality, and easier assembly than [previous version (V5)](https://github.com/mesoSPIM/mesoSPIM-hardware-documentation). 
 
-The excitation optics (and lightsheet properties) are identical to V5, but with more compact folding. 
+The *excitation* optics (and lightsheet properties) are identical to V5, but with more compact folding. 
 
-The detection path uses exchangeable telecentric lenses (available from various manufactureres), as opposed to one objective with zoom (Olympus PLAPO 1x). Fixed-focus (prime) lenses offer better imaging quality than zoom lenses, just like in consumer DSLR cameras. We tested and characterized off-the-shelf telecentric lenses with various magnifications, suitable for different samples.
+The *detection* path uses new exchangeable long-WD air objectives (e.g. Mitutoyo), as opposed to an objective with variable zoom (Olympus PLAPO 1x). The new objectives offer better imaging quality (field flatness and resolution) than zoom lenses. We tested various detection objectives with various magnification from 0.9X up to 20X suitable for mesoSPIM.
 
 Hardware is more compact, the number of parts is greatly reduced. 
 
