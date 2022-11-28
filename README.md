@@ -1,4 +1,4 @@
-![Benchtop V2](images/benchtop-mesoSPIM_2022.09.png)
+![Benchtop V2](https://github.com/mesoSPIM/benchtop-hardware/blob/main/Benchtop/CAD-model-Inventor2021/mesoSPIM/renderings/overview/benchtop-mesoSPIM_latest.png)
 
 # Benchtop mesoSPIM hardware documentation
 
