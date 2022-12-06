@@ -19,7 +19,7 @@ Being able to move the microscope from one lab to another, bring it to workshops
 
 Benchtop mesoSPIM has smaller size, lower cost, higher image quality, and easier assembly than [previous version (V5)](https://github.com/mesoSPIM/mesoSPIM-hardware-documentation). 
 
-| 					| **First-gen. mesoSPIM (v5)** | **Benchtop mesoSPIM-2.0** |
+| 					| **First-gen. mesoSPIM (v1.5)** | **Benchtop mesoSPIM (v2.0)** |
 |----------|----------|--------------------|
 |**Isotropic optical resolution (approx.)**| 6 $\mu m$ (at 4x) | 3 $\mu m$ (at 5x) | 
 |**Magnification range**| 0.63x - 6.3x | 0.9x - 20x | 
@@ -29,11 +29,13 @@ Benchtop mesoSPIM has smaller size, lower cost, higher image quality, and easier
 | **Pixels/image** | 4 MP | 15 MP |
 | **Footprint** | 1 $m^2$ |  0.25 $m^2$ |
 | **Mobile** |  no | yes |
-| **Approximate cost, EUR** | 170k | 86k | 
+| **Approximate cost, EUR** | 162k | 86k | 
 
-Hardware is more compact, the number of parts is greatly reduced. 
+The cost estimate does not include PC workstation and a screen. Version 1.5 costs include 4 laser lines (405, 488, 561, 638 nm) and optical table. Benchtop costs include the most popular 3 laser lines (488, 561, 638 nm), while forth laser (e.g. 405 nm) can be added for about 6k EUR.
 
-The acquisition software remains the same, compatible with both versions of the microscope. Only the config file has to be adjusted.
+The number of custom parts in Benchtop is greatly reduced. 
+
+The acquisition software remains the same, compatible with both versions of the microscope. 
 
 ## Build your own
 Our project is free and open-source, allowing anyone to build their own microscope. The [BT-mesoSPIM wiki](https://github.com/mesoSPIM/benchtop-hardware/wiki) will guide you how to build, setup, and use the BT-mesoSPIM system.
