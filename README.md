@@ -29,7 +29,7 @@ Benchtop mesoSPIM has smaller size, lower cost, higher image quality, and easier
 | **Pixels/image** | 4 MP | 15 MP |
 | **Footprint** | 1 $m^2$ |  0.25 $m^2$ |
 | **Mobile** |  no | yes |
-| **Approximate cost, EUR** | 170k | 95k | 
+| **Approximate cost, EUR** | 170k | 86k | 
 
 Hardware is more compact, the number of parts is greatly reduced. 
 
