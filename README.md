@@ -19,7 +19,7 @@ Being able to move the microscope from one lab to another, bring it to workshops
 
 Benchtop mesoSPIM has smaller size, lower cost, higher image quality, and easier assembly than [previous version (V5)](https://github.com/mesoSPIM/mesoSPIM-hardware-documentation). 
 
-| 					| **First-gen. mesoSPIM (v.5)** | **Benchtop mesoSPIM** |
+| 					| **mesoSPIM v.5** | **Benchtop mesoSPIM** |
 |----------|----------|--------------------|
 |**Isotropic optical resolution (approx.)**| 6 $\mu m$ (at 4x) | 3 $\mu m$ (at 5x) | 
 |**Magnification range**| 0.63x - 6.3x | 0.9x - 20x | 
