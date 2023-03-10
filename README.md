@@ -31,7 +31,7 @@ Benchtop mesoSPIM has smaller size, lower cost, higher image quality, and easier
 | **Mobile** |  no | yes |
 | **Approximate cost, EUR** | 162k | 95k | 
 
-The cost estimate does not include PC workstation and a screen. Version 1.5 costs include 4 laser lines (405, 488, 561, 638 nm) and optical table. Benchtop price includes the three most popular laser lines (488, 561, 638 nm) and 2x, 5x, 10x objectives. 
+The cost estimate does not include PC workstation and a screen. V.5 costs include 4 laser lines (405, 488, 561, 638 nm) and optical table. Benchtop price includes the three most popular laser lines (488, 561, 638 nm) and 2x, 5x, 10x objectives. 
 
 The number of custom parts in Benchtop is greatly reduced. 
 
