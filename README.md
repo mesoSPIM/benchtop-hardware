@@ -21,7 +21,8 @@ Benchtop mesoSPIM has smaller size, lower cost, higher image quality, and easier
 
 | 					| **mesoSPIM v.5** | **Benchtop mesoSPIM** |
 |----------|----------|--------------------|
-|**Isotropic optical resolution (approx.)**| 6 $\mu m$ (at 4x) | 3 $\mu m$ (at 5x) | 
+|**Optical resolution, axial**| 5 $\mu m$ (at zoom 4x) | 3.3 $\mu m$ (with Mitutoyo 5x/0.14 objective) | 
+|**Optical resolution, lateral**| 2.7 $\mu m$ (at zoom 4x) | 2.0 $\mu m$ (1.5 - 2.6 $\mu m$ depending on the objective) | 
 |**Magnification range**| 0.63x - 6.3x | 0.9x - 20x | 
 | **Detection objectives** 	|  Variable magnification (via motorized zoom)  | Fixed-magnification (manual exchange) |
 | **Camera sensor FOV (diagonal)** | 19 mm |  25 mm |
