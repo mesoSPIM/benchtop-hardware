@@ -38,5 +38,8 @@ The number of custom parts in Benchtop is greatly reduced.
 
 The acquisition software remains the same, compatible with both versions of the microscope. 
 
-## Build your own
+## Build your own Benchtop
 Our project is free and open-source, allowing anyone to build their own microscope. The [BT-mesoSPIM wiki](https://github.com/mesoSPIM/benchtop-hardware/wiki) will guide you how to build, setup, and use the BT-mesoSPIM system.
+
+## Upgrade your existing v.4-5 mesoSPIM
+(currently in beta) We also offer parts list and instructions for upgrading the detection optics of your existing mesoSPIM (v.4 and 5), so it can achieve the same resolution and image quality as the current Benchtop. See parts list and instructions for [mesoSPIM upgrade](https://github.com/mesoSPIM/benchtop-hardware/tree/main/v4-5-upgrade-2023).
