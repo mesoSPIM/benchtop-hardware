@@ -1,3 +1,5 @@
+*Currently in beta-testing!*
+
 ## Upgrade overview
 Upgrading the detection objectives of your mesoSPIM can significantly boost your system resolution, while using newer cSMOS cameras (e.g. Teledyne Photometrics Iris 15 or Kinetix) can aditionally boost your throughput.
 
