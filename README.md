@@ -21,7 +21,8 @@ Benchtop mesoSPIM has smaller size, lower cost, higher image quality, and easier
 
 | 					| **mesoSPIM v.5** | **Benchtop mesoSPIM** |
 |----------|----------|--------------------|
-|**Isotropic optical resolution (approx.)**| 6 $\mu m$ (at 4x) | 3 $\mu m$ (at 5x) | 
+|**Optical resolution, axial**| 5 $\mu m$ (at zoom 4x) | 3.3 $\mu m$ (with Mitutoyo 5x/0.14 objective) | 
+|**Optical resolution, lateral**| 2.7 $\mu m$ (at zoom 4x) | 2.0 $\mu m$ (1.5 - 2.6 $\mu m$ depending on the objective) | 
 |**Magnification range**| 0.63x - 6.3x | 0.9x - 20x | 
 | **Detection objectives** 	|  Variable magnification (via motorized zoom)  | Fixed-magnification (manual exchange) |
 | **Camera sensor FOV (diagonal)** | 19 mm |  25 mm |
@@ -37,5 +38,8 @@ The number of custom parts in Benchtop is greatly reduced.
 
 The acquisition software remains the same, compatible with both versions of the microscope. 
 
-## Build your own
+## Build your own Benchtop
 Our project is free and open-source, allowing anyone to build their own microscope. The [BT-mesoSPIM wiki](https://github.com/mesoSPIM/benchtop-hardware/wiki) will guide you how to build, setup, and use the BT-mesoSPIM system.
+
+## Upgrade your existing v.4-5 mesoSPIM
+(currently in beta) We also offer parts list and instructions for upgrading the detection optics of your existing mesoSPIM (v.4 and 5), so it can achieve the same resolution and image quality as the current Benchtop. See parts list and instructions for [mesoSPIM upgrade](https://github.com/mesoSPIM/benchtop-hardware/tree/main/v4-5-upgrade-2023).
