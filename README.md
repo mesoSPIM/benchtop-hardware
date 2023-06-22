@@ -43,3 +43,8 @@ Our project is free and open-source, allowing anyone to build their own microsco
 
 ## Upgrade your existing v.4-5 mesoSPIM
 (currently in beta) We also offer parts list and instructions for upgrading the detection optics of your existing mesoSPIM (v.4 and 5), so it can achieve the same resolution and image quality as the current Benchtop. See parts list and instructions for [mesoSPIM upgrade](https://github.com/mesoSPIM/benchtop-hardware/tree/main/v4-5-upgrade-2023).
+
+## Citation
+If you use any parts of this work for your project, please cite us:
+
+Nikita Vladimirov, Fabian Voigt, Thomas Naert, Gabriela R. Araujo, Ruiyao Cai, Anna Maria Reuss, Shan Zhao, Patricia Schmid, Sven Hildebrand, Martina Schaettin, Dominik Groos, José María Mateos, Philipp Bethge, Taiyo Yamamoto, Valentino Aerne, Alard Roebroeck, Ali Ertürk, Adriano Aguzzi, Urs Ziegler, Esther T Stoeckli, Laura Baudis, Soeren Sten Lienkamp, Fritjof Helmchen. [The Benchtop mesoSPIM: a next-generation open-source light-sheet microscope for large cleared samples.](https://www.biorxiv.org/content/10.1101/2023.06.16.545256v1) bioRxiv 2023.06.16.545256.
