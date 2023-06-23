@@ -1,0 +1,2 @@
+# Autodesk Inventor version
+The current version we are using is 2023. Unfortunately Autodesk keeps updating the version of our license, so there are some files that were created using 2017, 2019, or 2021 versions.
