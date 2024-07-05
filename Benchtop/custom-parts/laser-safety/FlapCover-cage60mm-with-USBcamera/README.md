@@ -1,7 +1,7 @@
 # Snap-on laser cover with integrated webcam mount for 60-mm Thorlabs cage system
 
 # 3D printing
-Extrusion printer (eg Prusa), PETG r similar material.
+Extrusion printer (eg Prusa), PETG or similar material.
 
 # Compatibe webcams
 - `DFRobot FIT0701` (70-deg FOV)
