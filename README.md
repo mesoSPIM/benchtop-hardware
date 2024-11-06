@@ -47,4 +47,4 @@ Our project is free and open-source, allowing anyone to build their own microsco
 ## Citation
 If you use any parts of this work for your project, please cite us:
 
-Nikita Vladimirov, Fabian Voigt, Thomas Naert, Gabriela R. Araujo, Ruiyao Cai, Anna Maria Reuss, Shan Zhao, Patricia Schmid, Sven Hildebrand, Martina Schaettin, Dominik Groos, José María Mateos, Philipp Bethge, Taiyo Yamamoto, Valentino Aerne, Alard Roebroeck, Ali Ertürk, Adriano Aguzzi, Urs Ziegler, Esther T Stoeckli, Laura Baudis, Soeren Sten Lienkamp, Fritjof Helmchen. [The Benchtop mesoSPIM: a next-generation open-source light-sheet microscope for large cleared samples.](https://www.biorxiv.org/content/10.1101/2023.06.16.545256v1) bioRxiv 2023.06.16.545256.
+Vladimirov, N., Voigt, F.F., Naert, T. et al. Benchtop mesoSPIM: a next-generation open-source light-sheet microscope for cleared samples. [Nat Commun 15, 2679 (2024).](https://doi.org/10.1038/s41467-024-46770-2)
