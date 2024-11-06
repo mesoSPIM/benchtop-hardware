@@ -1,5 +1,5 @@
 ### UCL London version
-This version of Benchtop mesoSPIM ([setup #31](https://mesospim.org/setups/)) was modified and shared by [Tchern Lenn](mailto:<y.lenn@ucl.ac.uk>) at the [UCL Microscopy and Imaging Translational Technology Platform](https://www.ucl.ac.uk/cancer/research/cancer-institute-translational-technology-platforms/microscopy-and-imaging-translational). 
+This version of Benchtop mesoSPIM ([setup #31](https://mesospim.org/setups/)) was modified and shared by [Tchern Lenn](mailto:<y.lenn@ucl.ac.uk>) at the [UCL Cancer Institute Microscopy and Imaging Translational Technology Platform](https://www.ucl.ac.uk/cancer/research/cancer-institute-translational-technology-platforms/microscopy-and-imaging-translational). 
 
 The advantages of this modification include:
 - 6 laser lines
