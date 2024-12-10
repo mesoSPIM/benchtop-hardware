@@ -44,6 +44,9 @@ Our project is free and open-source, allowing anyone to build their own microsco
 ## Upgrade your existing v.4-5 mesoSPIM
 (currently in beta) We also offer parts list and instructions for upgrading the detection optics of your existing mesoSPIM (v.4 and 5), so it can achieve the same resolution and image quality as the current Benchtop. See parts list and instructions for [mesoSPIM upgrade](https://github.com/mesoSPIM/benchtop-hardware/tree/main/v4-5-upgrade-2023).
 
+# User guides
+Introductory training of a new user typically takes 2 hours, ideally with a couple of follow-up sessions to make sure software parameters are set up correctly by the user. Our microscopy facility ZMB (Univerity of Zurich) has detailed guides on [mesoSPIM start-up, setting up, and acquisition](https://zmb.dozuki.com/c/Lightsheet_microscopy#Section_MesoSPIM).
+
 ## Citation
 If you use any parts of this work for your project, please cite us:
 
