@@ -51,3 +51,9 @@ Introductory training of a new user typically takes 2 hours, ideally with a coup
 If you use any parts of this work for your project, please cite us:
 
 Vladimirov, N., Voigt, F.F., Naert, T. et al. Benchtop mesoSPIM: a next-generation open-source light-sheet microscope for cleared samples. [Nat Commun 15, 2679 (2024).](https://doi.org/10.1038/s41467-024-46770-2)
+
+## Discussion
+Since August 2025 we joined the vibrant [image.cs forum](https://forum.image.sc/tag/mesospim)
+
+[![Static Badge](https://img.shields.io/badge/user_forum-image.sc-blue)](https://forum.image.sc/tag/mesospim)
+
