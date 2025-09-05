@@ -9,7 +9,7 @@
 - large volume, fits large samples
 
 # Documentation
-[Mesospim cuvettes.pptx](./docs/Mesospim cuvettes.pptx)
+[Mesospim cuvettes.pptx](./docs/Mesospim_cuvettes.pptx)
 
 # Parts list
 [Cuvette Parts List](./parts-list/parts-list-immersion-cuvette.xlsx)
