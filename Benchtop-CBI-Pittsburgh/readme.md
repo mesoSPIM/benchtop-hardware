@@ -9,10 +9,10 @@
 - large volume, fits large samples
 
 # Documentation
-[PPT Presentation](./docs/Mesospim cuvettes.pptx)
+[Mesospim cuvettes.pptx](./docs/Mesospim cuvettes.pptx)
 
 # Parts list
-[Cuvette Parts List](./parts/parts-list-immersion-cuvette.xlsx)
+[Cuvette Parts List](./parts-list/parts-list-immersion-cuvette.xlsx)
 
 ## Credits
 Designed at [CBI Pittsburgh](https://www.cbi.pitt.edu/) by Simon Watkins and Travis Wheeler.
