@@ -10,6 +10,8 @@
 
 # Documentation
 [Mesospim cuvettes.pptx](./docs/Mesospim_cuvettes.pptx)
+<img width="1854" height="1059" alt="image" src="https://github.com/user-attachments/assets/beb5e41d-9693-4e76-b3c3-48ffa28d8b69" />
+
 
 # Parts list
 [Cuvette Parts List](./parts-list/parts-list-immersion-cuvette.xlsx)
